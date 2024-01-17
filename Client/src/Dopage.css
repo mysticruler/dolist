@@ -1,0 +1,8 @@
+.bgbg {
+
+    margin: 0;
+    padding: 0;
+    background: url('todobg.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100%
+}
